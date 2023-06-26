@@ -1,5 +1,5 @@
 # Responsive-web-project-freeocdecamp-catphotoapp
-The first proh=ject from freecodecamp on responsive web
+The first project from freecodecamp on responsive web
 <!DOCTYPE html>
 
 <html lang="en">
